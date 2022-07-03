@@ -1,0 +1,27 @@
+body{
+    background-color: #f9f9ed;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.odin{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+img{
+    width: 700px;
+    height: 600px;
+}
+
+.right{
+    float:right;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.list{
+    font-size: 20px;
+}
